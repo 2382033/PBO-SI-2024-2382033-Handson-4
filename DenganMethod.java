@@ -32,4 +32,4 @@
             System.out.println("Pajak: " + pajak);
             System.out.println("Gaji Bersih: " + gajiBersih);
         }
-    }}
+    }
